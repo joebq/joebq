@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Joe 👋
 
 ### Cloud Architect & Systems Developer
 I specialize in building scalable infrastructure on **Azure** and developing high-performance applications using **C++** and **Python**. I’m passionate about automation, local AI, and clean, modular code.
