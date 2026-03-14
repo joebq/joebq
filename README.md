@@ -21,12 +21,12 @@ I specialize in building scalable infrastructure on **Azure** and developing hig
 * **Systems:** Building C++ bindings for Python and exploring modern C++23 features.
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joebq&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joebq&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📫 Connect with Me
 * **Portfolio:** [Link to your MkDocs site]
-* **LinkedIn:** [Your LinkedIn Profile]
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jobaqaeen/
 * **Status:** 🏗️ Building in the cloud, 🏎️ Optimizing on the metal.
