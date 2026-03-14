@@ -21,7 +21,7 @@ I specialize in building scalable infrastructure on **Azure** and developing hig
 * **Systems:** Building C++ bindings for Python and exploring modern C++23 features.
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joebq&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=joebq&show_icons=true&theme=tokyonight)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joebq&layout=compact&theme=tokyonight)
 
 ---
