@@ -28,5 +28,5 @@ I specialize in building scalable infrastructure on **Azure** and developing hig
 
 ### 📫 Connect with Me
 * **Portfolio:** [Link to your MkDocs site]
-* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jobaqaeen/
+* **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/jobaqaeen/)
 * **Status:** 🏗️ Building in the cloud, 🏎️ Optimizing on the metal.
